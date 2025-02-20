@@ -29,6 +29,11 @@
 <br>
 <h1>Task 2: Customer Retention Dashboard</h1>
 <h3>Objective: To design a dashboard that helps the telecom retention department identify at-risk customers before they terminate their contracts.</h3>
+<br>
+![Image Alt](https://github.com/RamVishvakarma/Pwc-BI/blob/0646b9de06a8388fd64f708a4911f91a7ec64228/21.png)
+<br>
+![Image Alt](https://github.com/RamVishvakarma/Pwc-BI/blob/0646b9de06a8388fd64f708a4911f91a7ec64228/22.png)
+<br>
 <h3>Key Areas of Focus:</h3>
 <h4>Churn Analysis:</h4>
 <h4>Number of customers lost in the last month</h4>
@@ -51,12 +56,21 @@
 <h4>Retention scorecards for quick insights.</h4>
 <h4>Customer segmentation filters to identify at-risk groups.</h4>
 <h4>Trend analysis of customer behavior before churn.</h4>
+<br>
+<br>
 
 
 
 <h1>Task 3: Diversity & Inclusion Dashboard</h1>
 <h3>Objective:
 To support the HR team in analyzing gender balance and diversity efforts within the organization.</h3>
+<br>
+![Image Alt](https://github.com/RamVishvakarma/Pwc-BI/blob/0646b9de06a8388fd64f708a4911f91a7ec64228/31.png)
+<br>
+![Image Alt](https://github.com/RamVishvakarma/Pwc-BI/blob/0646b9de06a8388fd64f708a4911f91a7ec64228/32.png)
+<br>
+![Image Alt](https://github.com/RamVishvakarma/Pwc-BI/blob/0646b9de06a8388fd64f708a4911f91a7ec64228/33.png)
+<br>
 <h3>KPIs & Metrics:</h3>
 <h4>Workforce Composition:</h4>
 <h4>Total number of male and female employees</h4>
