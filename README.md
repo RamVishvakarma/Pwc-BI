@@ -13,8 +13,9 @@
 <h4>Agent Performance Quadrant:</h4>
 <h4>Average handle time vs. number of calls answered</h4>
 <h4>Identifying top-performing and underperforming agents</h4>
-<h4>First Call Resolution Rate (FCR):</h4>
+
 <h4>Percentage of calls resolved without follow-ups</h4>
+<br>
 <h3>Dashboard Features:</h3>
 <h4>Interactive charts and filters to analyze trends.</h4>
 <h4>Performance quadrant scatter plot for agent evaluation.</h4>
