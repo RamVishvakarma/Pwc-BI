@@ -1,6 +1,7 @@
 <h2>Project Report: Power BI Dashboards for Telecom Client</h2>
 <h3>Prepared for: PwC Switzerland</h3>
 <h1>Task 1: Customer Service Performance Dashboard</h1>
+![image alt]()
 <h3>Objective: To create a Power BI dashboard for Claire that provides insights into key performance indicators (KPIs) related to customer service performance.</h3>
 <h3>KPIs & Metrics:</h3>
 <h4>Overall Customer Satisfaction – Average customer satisfaction score from surveys.</h4>
