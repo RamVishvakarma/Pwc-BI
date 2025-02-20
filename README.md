@@ -25,3 +25,64 @@
 <h4>Heatmap showing call volume trends by time of day.</h4>
 <h4>KPI cards for quick insights.</h4>
 
+<br>
+<br>
+<h1>Task 2: Customer Retention Dashboard</h1>
+<h3>Objective: To design a dashboard that helps the telecom retention department identify at-risk customers before they terminate their contracts.</h3>
+<h3>Key Areas of Focus:</h3>
+<h4>Churn Analysis:</h4>
+<h4>Number of customers lost in the last month</h4>
+<h4>Churn rate (%)</h4>
+<h4>Customer Segmentation:</h4>
+<h4>Demographic breakdown (gender, age, presence of dependents)</h4>
+<h4>Tenure with the company</h4>
+<h4>Service Usage Patterns:</h4>
+<h4>Services subscribed (phone,multiple lines, internet, security, streaming, etc.)</h4>
+<h4>Monthly vs. total charges</h4>
+<h4>Risk Indicators:</h4>
+<h4>Contract type (month-to-month, annual, multi-year)</h4>
+<h4>Payment method & paperless billing adoption</h4>
+<h4>Customer support interactions (number of tickets opened)</h4>
+
+
+<br>
+<h3>Dashboard Features:</h3>
+<h4>Interactive customer churn heatmaps and visualizations.</h4>
+<h4>Retention scorecards for quick insights.</h4>
+<h4>Customer segmentation filters to identify at-risk groups.</h4>
+<h4>Trend analysis of customer behavior before churn.</h4>
+
+
+
+<h1>Task 3: Diversity & Inclusion Dashboard</h1>
+<h3>Objective:
+To support the HR team in analyzing gender balance and diversity efforts within the organization.</h3>
+<h3>KPIs & Metrics:</h3>
+<h4>Workforce Composition:</h4>
+<h4>Total number of male and female employees</h4>
+<h4>Gender ratio at the executive level</h4>
+<h4>Employee Turnover & Retention:</h4>
+<h4>Number of employees who left</h4>
+<h4>Overall turnover rate (%)</h4>
+<h4>Promotion Analysis:</h4>
+<h4>Percentage of employees promoted (FY21)</h4>
+<h4>% of women promoted vs. % of men promoted</h4>
+<h4>Hiring Trends:</h4>
+<h4>% of male vs. female hires</h4>
+<h4>Performance Ratings:</h4>
+<h4>Average performance rating: men vs. women</h4>
+<br>
+<h3>Dashboard Features:</h3>
+<h4>Gender balance scorecards and visual indicators.</h4>
+<h4>Employee turnover trend analysis.</h4>
+<h4>Promotion and hiring comparison charts.</h4>
+<h4>Insights into performance ratings by gender.</h4>
+<h4>Custom filters for deep dives into different departments.</h4>
+<br>
+<br>
+<h3>Conclusion & Recommendations:</h3>
+<h4>Customer Service: Focus on improving call handling efficiency and reducing abandoned calls through better workforce management and training.</h4>
+<h4>Customer Retention: Implement predictive analytics to proactively engage high-risk customers before they churn.</h4>
+<h4>Diversity & Inclusion: Enhance gender diversity at leadership levels by identifying and addressing promotion disparities.</h4>
+
+
